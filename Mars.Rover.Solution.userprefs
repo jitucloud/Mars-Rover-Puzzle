@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B53CE4AE-BAA3-4290-9AFE-CEC5D26AF6CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Mars.Rover.Puzzle/Program.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Plateau.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Coordinate.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Rover.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Helper/CommandParser.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Enums/Command.cs" Line="1" Column="1" />
+      <File FileName="Mars.Rover.Puzzle/Enums/Direction.cs" Line="7" Column="13" />
+      <File FileName="README.md" Line="1" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mars.Rover.Puzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
